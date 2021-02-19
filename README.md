@@ -150,3 +150,7 @@ REBORN은 유기 동물에 대한 관심을 재고시키기 위해 동물들의 
 
 
 
+## 🔗 메인화면 모델 출처
+> Easter Island Low Poly : https://sketchfab.com/3d-models/easter-island-low-poly-a3dc85b7cbfd49de95ff21d4ea5b2c7f
+> Animals : https://opengameart.org/content/lowpoly-animated-farm-animal-pack
+> Smoke - https://redstapler.co/cool-nebula-background-effect-three-js/
