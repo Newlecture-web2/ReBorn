@@ -19,11 +19,11 @@ REBORN은 유기 동물에 대한 관심을 재고시키기 위해 동물들의 
 
 1. Back-end
 
-  - Java, Spring Boot, Maven, MyBatis
+ - Java, Spring Boot, Maven, MyBatis
 
 2. Front-end
 
-  - HTML/CSS, Java Script(es6), React.js, Three.js, JQuery
+ - HTML/CSS, Java Script(es6), React.js, Three.js, JQuery
 
 3. Library
  
