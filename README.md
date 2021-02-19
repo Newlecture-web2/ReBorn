@@ -1,10 +1,9 @@
 # ReBorn
 
-## 목차
-
-### 1. 들어가며
+## 프로젝트 소개
 
 REBORN은 유기 동물에 대한 관심을 재고시키기 위해 동물들의 이름을 지어주는 웹사이트입니다.
+
 -본 프로젝트는 풀스택 개발과정 수업의 복습을 위해 Spring boot 기반으로 개발되었습니다.-
 
 [![2021 02 15 15 45 26 mp4_20210215_162759 349](https://user-images.githubusercontent.com/74892930/107917181-d85c8e80-6faa-11eb-8817-a472245cdfe0.jpg)](https://user-images.githubusercontent.com/74892930/107915267-8a925700-6fa7-11eb-856a-1bb3c162a796.mp4)
@@ -14,37 +13,46 @@ REBORN은 유기 동물에 대한 관심을 재고시키기 위해 동물들의 
 
  - 2021.01.11 ~ 2021.02.15 (1M)
 
-#### 🛠 사용 기술 
+## 
 
- - 공공 데이터 API, 카카오 API, coolsms, mail SMTP, fetch API, three.js
 
-#### ⚙ 개발환경
 
- 1️⃣ 기획, 설계, 일정관리
+## 🛠 사용 기술 
 
-  - google presentation, ER-win, Trello
-
- 2️⃣ Front-end
-
-  - HTML/CSS, Java Script(es6), React.js, Three.js, JQuery
-
- 3️⃣ Back-end
+1. Back-end
 
   - Java, Spring Boot, Maven, MyBatis
 
- 4️⃣ DBMS
+2. Front-end
+
+  - HTML/CSS, Java Script(es6), React.js, Three.js, JQuery
+
+3. Library
+ 
+  - 공공 데이터 API, 카카오 API, coolsms, mail SMTP, fetch API, three.js
+
+ 4. DBMS
 
   - MySQL
 
- 5️⃣ IDE
+
+#### ⚙ 개발환경
+
+ 1. IDE
 
   - Spring Boot suite, VsCode
 
- 6️⃣ 형상 관리 툴
+ 2. 형상 관리 툴
 
   - Git
 
-#### 🎞💻 주요기능
+ 3. 기획, 설계, 일정관리
+ 
+  - google presentation, ER-win, Trello
+
+
+
+## 🎞 주요기능
 
 ✅ 유기동물
 [![2021 02 15 15 45 26 mp4_20210215_162759 349](https://user-images.githubusercontent.com/74892930/107917181-d85c8e80-6faa-11eb-8817-a472245cdfe0.jpg)](https://user-images.githubusercontent.com/74892930/107915267-8a925700-6fa7-11eb-856a-1bb3c162a796.mp4)
