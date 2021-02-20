@@ -148,9 +148,13 @@ REBORN은 유기 동물에 대한 관심을 재고시키기 위해 동물들의 
     - 프로젝트의 기둥 담당
     - 실종신고 게시판 및 채팅 기능 구현
 
-
+<br>
+<br>
 
 ## 🔗 메인화면 모델 출처
-> Easter Island Low Poly : https://sketchfab.com/3d-models/easter-island-low-poly-a3dc85b7cbfd49de95ff21d4ea5b2c7f
-> Animals : https://opengameart.org/content/lowpoly-animated-farm-animal-pack
-> Smoke - https://redstapler.co/cool-nebula-background-effect-three-js/
+- Easter Island Low Poly<br>
+    https://sketchfab.com/3d-models/easter-island-low-poly-a3dc85b7cbfd49de95ff21d4ea5b2c7f
+- Animals<br>
+    https://opengameart.org/content/lowpoly-animated-farm-animal-pack
+- Smoke<br>
+    https://redstapler.co/cool-nebula-background-effect-three-js/
